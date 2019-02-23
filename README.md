@@ -1,6 +1,6 @@
 # pokemongo
 
-this project its uploaded on:
+Project its uploaded on:
 
 https://pokemongoindaial.neocities.org/index.html
 
