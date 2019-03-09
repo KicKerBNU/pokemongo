@@ -11,10 +11,10 @@ html, body, .capa{
 }
 body{
 
-	background: url('imagens/palkia2.jpg') no-repeat,
-				url('imagens/ruido.png'),
+	background: url('imagens/dialga.png') no-repeat,
+				
 				linear-gradient(50deg, #ff4169, #7c26f8);
-	background-attachment: expanded;
+	background-attachment: fixed;
 	background-size:cover;
 	font-family: Helvetica,Arial,sans-serif;
 	overflow-x: hidden; 		
@@ -228,6 +228,7 @@ h3{
 
 /* - - MEDIA QUERYS - - */
 @media
+	
  	only screen and (max-width: 767px){
 		h1{
 		font-size: 30px;
